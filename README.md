@@ -1,10 +1,9 @@
 # Heartly
 
 
+<img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 34 46 PM" src="https://github.com/user-attachments/assets/e48a37c9-4c19-4db3-8b6e-39524bc281a0" />
 <img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 35 06 PM" src="https://github.com/user-attachments/assets/69d3dfda-cf34-4a9f-8d94-ccf3ae8adde9" />
 <img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 34 56 PM" src="https://github.com/user-attachments/assets/ac32335f-8426-4296-8476-1b818f10a0ad" />
-<img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 34 46 PM" src="https://github.com/user-attachments/assets/e48a37c9-4c19-4db3-8b6e-39524bc281a0" />
-<img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 50 15 PM" src="https://github.com/user-attachments/assets/86d16397-ed97-4e54-a5bd-1c453eb892e6" />
 <img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 52 55 PM" src="https://github.com/user-attachments/assets/30444507-52ff-4c1a-871f-74529784b3ff" />
 <img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 51 08 PM" src="https://github.com/user-attachments/assets/9b2cf800-1f38-46b0-bf42-cbd4953989c9" />
 <img width="455" height="1028" alt="Screenshot 2026-04-16 at 7 48 41 PM" src="https://github.com/user-attachments/assets/1d1d68a5-8b5b-45e8-b217-f4a8008365a1" />
