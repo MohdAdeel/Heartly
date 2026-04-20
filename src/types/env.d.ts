@@ -1,0 +1,10 @@
+/**
+ * Environment Variables Type Definitions
+ * This file provides TypeScript types for environment variables
+ */
+
+declare module '@env' {
+  export const SUPABASE_URL: string;
+  export const SUPABASE_ANON_KEY: string;
+  export const BACKEND_URL: string;
+}

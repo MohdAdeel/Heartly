@@ -1,0 +1,4 @@
+/Users/macbookprom1/Documents/Official/MatchMaking/ArangedMarriage/android/app/.cxx/RelWithDebInfo/5v2bn343/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/macbookprom1/Documents/Official/MatchMaking/ArangedMarriage/android/app/.cxx/RelWithDebInfo/5v2bn343/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/macbookprom1/Documents/Official/MatchMaking/ArangedMarriage/android/app/.cxx/RelWithDebInfo/5v2bn343/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/macbookprom1/Documents/Official/MatchMaking/ArangedMarriage/android/app/.cxx/RelWithDebInfo/5v2bn343/x86/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

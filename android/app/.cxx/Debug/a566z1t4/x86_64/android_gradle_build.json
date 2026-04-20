@@ -1,0 +1,92 @@
+{
+  "buildFiles": [
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native-blob-util/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/macbookprom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/.cxx/Debug/a566z1t4/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/macbookprom1/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/.cxx/Debug/a566z1t4/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "appmodules",
+      "output": "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/build/intermediates/cxx/Debug/a566z1t4/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/build/intermediates/cxx/Debug/a566z1t4/obj/x86_64/libreact_codegen_safeareacontext.so",
+        "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/build/intermediates/cxx/Debug/a566z1t4/obj/x86_64/libreact_codegen_rnscreens.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/cbdb5ebe68f88c6ca5f241edc07a1207/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_RNImagePickerSpec"
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
+    },
+    "react_codegen_ReactNativeBlobUtilSpec::@7d3cc6108106e04bb830": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_ReactNativeBlobUtilSpec"
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnasyncstorage"
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/build/intermediates/cxx/Debug/a566z1t4/obj/x86_64/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/cbdb5ebe68f88c6ca5f241edc07a1207/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Users/macbookprom1/Documents/Official/Heartly-MarriageApp/Heartly/android/app/build/intermediates/cxx/Debug/a566z1t4/obj/x86_64/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/cbdb5ebe68f88c6ca5f241edc07a1207/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/macbookprom1/.gradle/caches/9.0.0/transforms/2137064125700dabc04fa68fe49f530f/transformed/react-android-0.83.0-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/macbookprom1/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/macbookprom1/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

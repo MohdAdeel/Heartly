@@ -1,0 +1,58 @@
+# macOS
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Metro / React Native
+.metro-health-check*
+metro.config.local.js
+
+# Build outputs
+dist/
+build/
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/.cxx/
+*.keystore
+*.jks
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+ios/DerivedData/
+
+# Bundles / sourcemaps
+*.bundle
+*.map
+
+# Coverage / test output
+coverage/
+jest-results/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
